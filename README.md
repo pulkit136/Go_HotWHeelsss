@@ -39,6 +39,10 @@ This project aims to:
 * Explore the brand's image and its evolution over time.
 * Investigate the potential of Hot Wheels NFTs and their impact on the collector market.
 
+## Project Demo 
+
+*  Link : https://embeddables.testnet.andromedaprotocol.io/galileo-4/WheelsCollection
+  
 ## Getting Started
 
 This repository is intended to serve as a hub for research and discussion on Hot Wheels, their marketing, and the potential of NFTs. Feel free to contribute your insights and ideas!
